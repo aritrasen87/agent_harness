@@ -1,5 +1,5 @@
 ---
-name: text_summarizer
+name: text-summarizer
 description: Use this skill to condense large text files into bulleted summaries. Do NOT use this for code review or debugging.
 ---
 
